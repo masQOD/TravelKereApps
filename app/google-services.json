@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "600465165613",
+    "firebase_url": "https://travelkereapps.firebaseio.com",
+    "project_id": "travelkereapps",
+    "storage_bucket": "travelkereapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600465165613:android:a85c2c8a70c7aba2",
+        "android_client_info": {
+          "package_name": "com.masqod.travelkereapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600465165613-i81q88a1c4j3v3v8t622bancu2i6bnh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masqod.travelkereapps",
+            "certificate_hash": "5578ca949d800e2551ed40ff5663269da80b71a6"
+          }
+        },
+        {
+          "client_id": "600465165613-tg8jm0n6ulac096oisqqjv3cc8i5v3l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXSiIJN41rBzHj9WZYiOdUKBysjpAzMq0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600465165613-tg8jm0n6ulac096oisqqjv3cc8i5v3l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

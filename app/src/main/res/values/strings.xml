@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TravelKere</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="DISCONNECT">disconnect</string>
+    <string name="google_status_fmt">text_status</string>
+    <string name="firebase_status_fmt">text_dtl_status</string>
+</resources>
